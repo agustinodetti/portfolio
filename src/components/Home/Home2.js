@@ -16,40 +16,24 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+               <span className="purple"> Sobre mi </span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+            Desde muy chico me inicie en el mundo de la tecnologia y desarrollo de software
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              Comencé investigando por curiosidad y actualmente ya estoy en la etapa final de la carrera de Ingeniería en Sistemas de Información, donde reforcé mis conocimientos en arquitectura de software, metodologías ágiles y tecnologías web modernas.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Laboralmente mi perfil es el de Analista Desarrollador Backend usando tecnologías como ASP.NET, C#, .NET Framework y SQL Server. Por otro lado tambien me ha tocado contruir APIs RESTful en .NET. Tambien tengo experiencia como Analista Funcional utilizando metogologias agiles y con mucho uso de base de datos SQL y documentacion.
+              <br />
+              <br />
+              Me interesa todo lo que impulse la innovación: desde soluciones backend eficientes hasta ideas relacionadas con inteligencia artificial. 
+              <br />
+              <br />
+              Siempre estoy buscando desafíos donde pueda seguir aprendiendo, aportar valor y crecer como profesional.
+              
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,14 +44,11 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
+            <h1>Encontrame en</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/agustinodetti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +58,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +68,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/agustinodetti/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/agustinodetti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
